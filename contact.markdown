@@ -1,8 +1,7 @@
 ---
 feature_image: /assets/img/cover.jpg
 ---
-Nous sommes joignable par email : [{{ site.email }}](mailto:{{ site.email }})
 
-Mais aussi sur [WhatsApp](https://chat.whatsapp.com/LCriYyvy98GBHcAubOUgeL) !
+{% include figure.html image="/assets/img/whatsapp.png" caption="Nous sommes joignable via <a href='mailto:adhesion@ris-plongee.com'>adhesion@ris-plongee.com</a>, mais aussi <a href='https://chat.whatsapp.com/LCriYyvy98GBHcAubOUgeL'>sur WhatsApp</a>" %}
 
-![QRCode Whatsapp](/assets/img/qrcode.png)
+{% include map.html id="11hFvo-Hk4FYsUCxjKkq2jA2CgO6OOEQ" %}

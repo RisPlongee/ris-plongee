@@ -22,13 +22,9 @@ url: https://beta.ris-plongee.com
 description: Ris-Plongée, un club de plongée associatif à Ris-Orangis (91 )qui à plus de 50 ans..
 
 navigation_header:
-  - title: Association Sportive Ris Plongée
+  - title: Accueil
     url: /
   - title: Nous contacter
     url: /contact.html
   - title: Notre agenda
     url: /agenda.html
-  - title: Réaliser un baptême de plongée
-    url: /baptism.html
-  - title: Adhérer au club
-    url: https://www.helloasso.com/associations/asrp-ris-plongee/adhesions/adhesion-2023-2024

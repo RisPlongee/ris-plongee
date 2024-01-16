@@ -5,3 +5,5 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "webrick"
 end
+
+gem "faraday-retry", "~> 2.2"
