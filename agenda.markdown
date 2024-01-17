@@ -1,5 +1,5 @@
 ---
-feature_image: /assets/img/cover.jpg
+feature_image: assets/img/cover.jpg
 ---
 Retrouvez tous nos événements sur notre agenda
 
