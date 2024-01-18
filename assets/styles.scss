@@ -7,12 +7,14 @@ styles: true
 .feature{
     padding-bottom: 0.4rem;
     margin-bottom: 1.6rem;
-    vertical-align: top;
-    text-align: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left;
     height: 300px;
-    width: 2000px;
+    .container {
+        min-height: 35%;
+        max-width: 60%;
+        flex-direction: column;
+        justify-content: center;
+    }
 }
-
