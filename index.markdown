@@ -6,19 +6,11 @@ Il a été créé en 1970 par 3 plongeurs passionnés. un de ses fondateurs a po
 Ris- Plongée continue à accorder une grande importance à la transmission du savoir-faire et à **la qualité de la formation**.
 
 <div>
-    <img src='assets/img/baptism.png' />
-     <img src='assets/img/subscribe.png' />
-    
-    <!--
-    <span>
-        <img src='assets/img/baptism.png' /><br/>
-        <a href='https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2'>Réaliser un baptême de plongée</a>
-    </span>
-
-    <span>
-        <img src='assets/img/subscribe.png' /><br/>
-        <a href='https://www.helloasso.com/associations/asrp-ris-plongee/adhesions/adhesion-2023-2024'>Adhérer au club</a>
-    </span>
-    -->
+    <a href='https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2'>
+        <img src='assets/img/baptism.png' />
+    </a>
+    <a href='https://www.helloasso.com/associations/asrp-ris-plongee/adhesions/adhesion-2023-2024'>
+        <img src='assets/img/subscribe.png' />
+    </a>
 
 </div>
