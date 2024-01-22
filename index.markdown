@@ -12,5 +12,4 @@ Ris- Plongée continue à accorder une grande importance à la transmission du s
     <a href='https://www.helloasso.com/associations/asrp-ris-plongee/adhesions/adhesion-2023-2024'>
         <img src='assets/img/subscribe.png' />
     </a>
-
 </div>
