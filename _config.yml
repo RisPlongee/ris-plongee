@@ -10,6 +10,7 @@ remote_theme: daviddarnes/alembic@main
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 author: Ris Plongée
 
@@ -31,3 +32,9 @@ navigation_header:
     url: /agenda.html
   - title: Notre histoire
     url: /history.html
+
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
