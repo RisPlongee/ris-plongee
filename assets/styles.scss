@@ -8,6 +8,21 @@ $hoverColour: darkgoldenrod !default;
 
 @import "alembic";
 
+article p {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 1em;
+}
+
+article div {
+    text-align: center;
+}
+
+article h1 {
+    text-align: center;
+}
+
 .feature{
     padding-bottom: 0.4rem;
     margin-bottom: 1.6rem;
