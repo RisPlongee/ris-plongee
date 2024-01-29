@@ -3,16 +3,13 @@ title: false
 styles: true
 ---
 
-$linkColour: darkgoldenrod !default;
+$linkColour: rgb(41, 164, 226) !default;
 $hoverColour: rgb(70, 58, 30) !default;
 
 @import "alembic";
 
 article p {
-    border-style: solid;
-    border-color: black;
-    border-width: 5px;
-    padding: 1em;
+    text-align: center;
 }
 
 article div {
