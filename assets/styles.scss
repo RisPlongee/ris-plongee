@@ -3,8 +3,8 @@ title: false
 styles: true
 ---
 
-$linkColour: #facb06 !default;
-$hoverColour: darkgoldenrod !default;
+$linkColour: darkgoldenrod !default;
+$hoverColour: rgb(70, 58, 30) !default;
 
 @import "alembic";
 
@@ -21,6 +21,10 @@ article div {
 
 article h1 {
     text-align: center;
+}
+
+.typeset h1 {
+    font-size: 2.2em;
 }
 
 .feature{
