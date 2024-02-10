@@ -30,8 +30,8 @@ navigation_header:
     url: /contact.html
   - title: Notre agenda
     url: /agenda.html
-  - title: Notre histoire
-    url: /history.html
+  - title: Nos videos
+    url: /videos.html
 
 fonts:
   preconnect_urls:
