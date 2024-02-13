@@ -6,7 +6,7 @@ feature_image: assets/img/cover.jpg
 
 Piscine René-Touzin, Rue Henri Sellier, 91130 Ris-Orangis
 
-[risplongee@gmail.com(mailto:risplongee+adhesion@gmail.com)
+[risplongee@gmail.com](mailto:risplongee+adhesion@gmail.com)
 
 Communauté WhatsApp : [cliquer sur ce lien](https://chat.whatsapp.com/LCriYyvy98GBHcAubOUgeL)
 
