@@ -3,9 +3,15 @@ feature_image: assets/img/cover.jpg
 title: Association Sportive Ris Plongée
 ---
 
-Ris-plongée est un club associatif, loi 1901, affilié à la [Fédération Française d’Etudes et de Sports Sous-Marins (FFESSM)](https://ffessm.fr/){:target="_blank"} et à la [Fédération Sportive et Gymnique du Travail (FSGT)](https://plongee-fsgt.org/){:target="_blank"}.
-Il a été créé en 1970 par 3 plongeurs passionnés. Un de ses fondateurs a poursuivi cette aventure de plus de 50 ans d’histoire, faite de passion et de partage autour de la plongée.
-Ris-Plongée continue à accorder une grande importance à la transmission du savoir-faire et à la qualité de la formation.
+Ris-plongée, fondé il y a plus de 50 ans, incarne une véritable tradition de passion et d'engagement envers la plongée sous-marine. Enraciné dans cette histoire riche, notre club associatif, régi par la loi 1901, est un lieu où règne une camaraderie sincère et une ambiance conviviale entre les membres. Nous sommes fiers de proposer des activités accessibles à tous, dans un esprit d'accueil et de partage.
+
+Affilié à la [Fédération Française d’Etudes et de Sports Sous-Marins (FFESSM)](https://ffessm.fr/){:target="_blank"} ainsi qu'à la [Fédération Sportive et Gymnique du Travail (FSGT)](https://plongee-fsgt.org/){:target="_blank"}, Ris-plongée s'engage pleinement à garantir des formations de qualité et à promouvoir une pratique sûre et responsable de la plongée.
+
+Chaque mercredi soir, lors de nos sessions de natation à 20h, nous organisons des baptêmes gratuits, permettant à chacun de découvrir les sensations uniques de la plongée sous-marine. À l'issue de ces séances, nous nous retrouvons au "club house", situé juste à côté de la piscine, pour partager un moment convivial autour d'un casse-croûte et d'un verre. C'est l'occasion parfaite pour échanger des anecdotes, renforcer les liens au sein de notre communauté et accueillir de nouveaux membres dans notre famille plongée.
+
+En plus de nos activités hebdomadaires, nous organisons deux à trois sorties en mer par an, offrant ainsi l'opportunité à nos membres de découvrir de nouveaux sites de plongée et d'explorer les merveilles sous-marines de notre région.
+
+Rejoignez-nous dès aujourd'hui pour faire partie d'une aventure passionnante, où la découverte, la convivialité et le plaisir sont au rendez-vous. Avec l'une des adhésions annuelles les plus abordables de France, Ris-plongée vous ouvre les portes d'un univers fascinant, où chacun peut s'épanouir et vivre des expériences inoubliables sous les vagues.
 
 <div>
     <a href='https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2'>
