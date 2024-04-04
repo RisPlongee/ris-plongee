@@ -1,6 +1,7 @@
 ---
 feature_image: assets/img/cover.jpg
 ---
+{% include video.html id="ViFbT586rKo" %}
 
 {% include video.html id="zey-AhTEDqc" %}
 
