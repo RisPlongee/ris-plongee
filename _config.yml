@@ -33,7 +33,7 @@ navigation_header:
   - title: Notre agenda
     url: /agenda.html
   - title: Nos videos
-    url: /videos.html
+    url: https://www.youtube.com/@RisPlongee
 
 fonts:
   preconnect_urls:
