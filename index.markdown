@@ -14,10 +14,10 @@ En plus de nos activités hebdomadaires, nous organisons deux à trois sorties e
 Rejoignez-nous dès aujourd'hui pour faire partie d'une aventure passionnante, où la découverte, la convivialité et le plaisir sont au rendez-vous. Avec l'une des adhésions annuelles les plus abordables de France, Ris-plongée vous ouvre les portes d'un univers fascinant, où chacun peut s'épanouir et vivre des expériences inoubliables sous les vagues.
 
 <div>
-    <a href='https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2'>
+    <a href='https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2024-2025'>
         <img src='assets/img/baptism.png' alt ='bapteme de plongee' />
     </a>
-    <a href='https://www.helloasso.com/associations/asrp-ris-plongee/adhesions/adhesion-2023-2024'>
+    <a href='https://www.helloasso.com/associations/asrp-ris-plongee/adhesions/adhesion-2024-2025'>
         <img src='assets/img/subscribe.png' alt='inscription à Ris Plongée' />
     </a>
 </div>
