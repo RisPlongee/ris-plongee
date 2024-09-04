@@ -9,7 +9,7 @@ Affilié à la [Fédération Française d’Etudes et de Sports Sous-Marins (FFE
 
 Chaque mercredi soir, lors de nos sessions de natation à 20h, nous organisons des baptêmes gratuits, permettant à chacun de découvrir les sensations uniques de la plongée sous-marine. À l'issue de ces séances, nous nous retrouvons au "club house", situé juste à côté de la piscine, pour partager un moment convivial autour d'un casse-croûte et d'un verre. C'est l'occasion parfaite pour échanger des anecdotes, renforcer les liens au sein de notre communauté et accueillir de nouveaux membres dans notre famille plongée.
 
-En plus de nos activités hebdomadaires, nous organisons deux à trois sorties en mer par an, offrant ainsi l'opportunité à nos membres de découvrir de nouveaux sites de plongée et d'explorer les merveilles sous-marines de notre région.
+En plus de nos activités hebdomadaires, nous organisons deux à trois sorties en mer par an, offrant ainsi l'opportunité à nos membres de découvrir de nouveaux sites de plongée et d'explorer les merveilles sous-marines de notre pays.
 
 Rejoignez-nous dès aujourd'hui pour faire partie d'une aventure passionnante, où la découverte, la convivialité et le plaisir sont au rendez-vous. Avec l'une des adhésions annuelles les plus abordables de France, Ris-plongée vous ouvre les portes d'un univers fascinant, où chacun peut s'épanouir et vivre des expériences inoubliables sous les vagues.
 
