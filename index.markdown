@@ -3,11 +3,11 @@ feature_image: assets/img/cover.jpg
 title: Association Sportive Ris Plongée
 ---
 
-Ris-plongée, fondé il y a plus de 50 ans, incarne une véritable tradition de passion et d'engagement envers la plongée sous-marine. Enraciné dans cette histoire riche, notre club associatif, régi par la loi 1901, est un lieu où règne une camaraderie sincère et une ambiance conviviale entre les membres. Nous sommes fiers de proposer des activités accessibles à tous, dans un esprit d'accueil et de partage.
+Ris-plongée, fondé il y a plus de 50 ans en Essonne à Ris-Orangis, incarne une véritable tradition de passion et d'engagement envers la plongée sous-marine. Enraciné dans cette histoire riche, notre club associatif, régi par la loi 1901, est un lieu où règne une camaraderie sincère et une ambiance conviviale entre les membres. Nous sommes fiers de proposer des activités accessibles à tous, dans un esprit d'accueil et de partage.
 
 Affilié à la [Fédération Française d’Etudes et de Sports Sous-Marins (FFESSM)](https://ffessm.fr/){:target="_blank"} ainsi qu'à la [Fédération Sportive et Gymnique du Travail (FSGT)](https://plongee-fsgt.org/){:target="_blank"}, Ris-plongée s'engage pleinement à garantir des formations de qualité et à promouvoir une pratique sûre et responsable de la plongée.
 
-Chaque mercredi soir, lors de nos sessions de natation à 20h, nous organisons des baptêmes gratuits, permettant à chacun de découvrir les sensations uniques de la plongée sous-marine. À l'issue de ces séances, nous nous retrouvons au "club house", situé juste à côté de la piscine, pour partager un moment convivial autour d'un casse-croûte et d'un verre. C'est l'occasion parfaite pour échanger des anecdotes, renforcer les liens au sein de notre communauté et accueillir de nouveaux membres dans notre famille plongée.
+Chaque mercredi soir, lors de nos sessions de natation à 20h, nous organisons des baptêmes gratuits et le passage de niveaux _(du N1 au N3)_, permettant à chacun de découvrir les sensations uniques de la plongée sous-marine. À l'issue de ces séances, nous nous retrouvons au "club house", situé juste à côté de la piscine, pour partager un moment convivial autour d'un casse-croûte et d'un verre. C'est l'occasion parfaite pour échanger des anecdotes, renforcer les liens au sein de notre communauté et accueillir de nouveaux membres dans notre famille plongée.
 
 En plus de nos activités hebdomadaires, nous organisons deux à trois sorties en mer par an, offrant ainsi l'opportunité à nos membres de découvrir de nouveaux sites de plongée et d'explorer les merveilles sous-marines de notre pays.
 
