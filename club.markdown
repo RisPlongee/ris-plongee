@@ -4,7 +4,7 @@ feature_image: assets/img/cover.jpg
 
 Ris Plongée, c'est plus de 50 ans d'histoire et de passions partagées. Nous partageons cette camaraderie de tous les instants chaque mercredis pendant et après nos sessions d'entrainement.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gdS_xnqMxlI?si=YQE3OTwA-yV3u_Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/gdS_xnqMxlI?si=YQE3OTwA-yV3u_Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Le quotidien 
 
