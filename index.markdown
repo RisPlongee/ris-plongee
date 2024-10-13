@@ -7,11 +7,38 @@ Ris-plongée, fondé il y a plus de 50 ans en Essonne à Ris-Orangis, incarne un
 
 Affilié à la [Fédération Française d’Etudes et de Sports Sous-Marins (FFESSM)](https://ffessm.fr/){:target="_blank"} ainsi qu'à la [Fédération Sportive et Gymnique du Travail (FSGT)](https://plongee-fsgt.org/){:target="_blank"}, Ris-plongée s'engage pleinement à garantir des formations de qualité et à promouvoir une pratique sûre et responsable de la plongée.
 
+# Nouvelles inscriptions - saison 2024/2025
+
+Si vous voulez vous inscrire au club, l'accueil des nouveaux adhérents se fera directement à la [piscine René Touzin à Ris Orangis](https://www.grandparissud.fr/equipement/piscine-rene-touzin/) à 20h tous les mercredis. Nous vous proposons un baptême gratuit pour vous familiariser avec l'univers de la plongée. [Remplissez ce formulaire](https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2024-2025) et nous prendrons rapidement contact avec vous !
+
 <div>
     <a href='https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2024-2025'>
         <img src='assets/img/baptism.png' alt ='bapteme de plongee' />
     </a>
+</div>
+
+# Réinscriptions saison 2024/2025
+
+Pour les plongeurs qui souhaitent se réinscrire, [ce formulaire](https://www.helloasso.com/associations/asrp-ris-plongee/adhesions/adhesion-2024-2025) permet de réaliser l'ensemble des démarches depuis votre canapé!
+
+<div>
     <a href='https://www.helloasso.com/associations/asrp-ris-plongee/adhesions/adhesion-2024-2025'>
         <img src='assets/img/subscribe.png' alt='inscription à Ris Plongée' />
     </a>
 </div>
+
+# Informations pratiques
+
+## Piscine
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2636.0568518646915!2d2.4038455000000054!3d48.64702759999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e5de51fefb2771%3A0x661f191049530983!2sPiscine%20Ren%C3%A9%20Touzin!5e0!3m2!1sfr!2sfr!4v1728819874096!5m2!1sfr!2sfr" width="100%" height="450px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Local du club
+
+Le "club-house" se situe à l'extérieur de la piscine à côté de la piste d'athlétisme.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2635.99502384619!2d2.402720199999991!3d48.64821040000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e5de51fefb2771%3A0xb8f5616a8fea14c1!2sRis%20Plong%C3%A9e!5e0!3m2!1sfr!2sfr!4v1728819822139!5m2!1sfr!2sfr" width="100%" height="450px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Les horaires
+
+Nous nous réussions tous les mercredis (hors période scolaire) de 20h à 22h à la piscine puis de 22h à 23h au club-house.
