@@ -7,7 +7,13 @@ Ris-plongée, fondé il y a plus de 50 ans en Essonne à Ris-Orangis, incarne un
 
 Affilié à la [Fédération Française d’Etudes et de Sports Sous-Marins (FFESSM)](https://ffessm.fr/){:target="_blank"} ainsi qu'à la [Fédération Sportive et Gymnique du Travail (FSGT)](https://plongee-fsgt.org/){:target="_blank"}, Ris-plongée s'engage pleinement à garantir des formations de qualité et à promouvoir une pratique sûre et responsable de la plongée.
 
-# Nouvelles inscriptions - saison 2024/2025
+# Sorties Issambres, Sept. 2024
+
+![sortie issambres 2024](assets/img/IMG_D5DAADF66CA8-1.jpeg)
+
+1 N5, 2 PE40, 2 PA60, 3 Nitrox !
+
+# Nouvelles inscriptions
 
 Si vous voulez vous inscrire au club, l'accueil des nouveaux adhérents se fera directement à la [piscine René Touzin à Ris Orangis](https://www.grandparissud.fr/equipement/piscine-rene-touzin/) à 20h tous les mercredis. Nous vous proposons un baptême gratuit pour vous familiariser avec l'univers de la plongée. [Remplissez ce formulaire](https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2024-2025) et nous prendrons rapidement contact avec vous !
 
@@ -17,7 +23,7 @@ Si vous voulez vous inscrire au club, l'accueil des nouveaux adhérents se fera 
     </a>
 </div>
 
-# Réinscriptions saison 2024/2025
+# Réinscriptions
 
 Pour les plongeurs qui souhaitent se réinscrire, [ce formulaire](https://www.helloasso.com/associations/asrp-ris-plongee/adhesions/adhesion-2024-2025) permet de réaliser l'ensemble des démarches depuis votre canapé!
 
