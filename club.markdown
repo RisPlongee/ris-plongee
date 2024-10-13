@@ -1,5 +1,5 @@
 ---
-feature_image: assets/img/cover.jpg
+feature_image: assets/img/cover2.jpg
 ---
 
 Ris Plongée, c'est plus de 50 ans d'histoire et de passions partagées. Nous partageons cette camaraderie de tous les instants chaque mercredis pendant et après nos sessions d'entrainement.
