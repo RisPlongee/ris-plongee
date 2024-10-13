@@ -7,6 +7,8 @@ Ris-plongée, fondé il y a plus de 50 ans en Essonne à Ris-Orangis, incarne un
 
 Affilié à la [Fédération Française d’Etudes et de Sports Sous-Marins (FFESSM)](https://ffessm.fr/){:target="_blank"} ainsi qu'à la [Fédération Sportive et Gymnique du Travail (FSGT)](https://plongee-fsgt.org/){:target="_blank"}, Ris-plongée s'engage pleinement à garantir des formations de qualité et à promouvoir une pratique sûre et responsable de la plongée.
 
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/ViFbT586rKo?si=YQE3OTwA-yV3u_Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Sorties Issambres, Sept. 2024
 
 ![sortie issambres 2024](assets/img/IMG_D5DAADF66CA8-1.jpeg)
