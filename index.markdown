@@ -22,11 +22,11 @@ Pour les plongeurs qui souhaitent se réinscrire, [ce formulaire](https://www.he
     </a>
 </div>
 
-## Piscine
+## La piscine
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2636.0568518646915!2d2.4038455000000054!3d48.64702759999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e5de51fefb2771%3A0x661f191049530983!2sPiscine%20Ren%C3%A9%20Touzin!5e0!3m2!1sfr!2sfr!4v1728819874096!5m2!1sfr!2sfr" width="100%" height="450px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Local du club
+## Le local du club
 
 Le "club-house" se situe à l'extérieur de la piscine à côté de la piste d'athlétisme.
 
