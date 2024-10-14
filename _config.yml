@@ -39,7 +39,7 @@ navigation_header:
     url: /
   - title: Le club
     url: /club.html
-  - title: Blog
+  - title: Actualités
     url: /blog.html
   - title: Nous contacter
     url: /contact.html
