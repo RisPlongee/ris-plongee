@@ -1,0 +1,13 @@
+---
+feature_image: /assets/img/cover.jpg
+layout: post
+title: Sortie des Issambres, sept. 2024
+---
+
+# Les Issambres, sept. 2024
+
+![l'équipe des Issambres](/assets/img/IMG_D5DAADF66CA8-1.jpeg)
+
+C'est la rentrée sportive, un premier groupe de plongeurs de Ris-Plongée ont validé leurs différents niveaux.
+
+1 N5, 2 PE40, 2 PA60 et 3 Nitrox !
