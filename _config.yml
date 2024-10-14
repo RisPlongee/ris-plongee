@@ -39,10 +39,8 @@ navigation_header:
     url: /
   - title: Le club
     url: /club.html
-  - title: Baptême
-    url: https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2024-2025
-  - title: Inscription
-    url: https://www.helloasso.com/associations/asrp-ris-plongee/adhesions/adhesion-2024-2025
+  - title: Blog
+    url: /blog.html
   - title: Nous contacter
     url: /contact.html
   - title: Notre agenda
