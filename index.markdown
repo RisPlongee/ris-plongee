@@ -9,8 +9,6 @@ Affilié à la [Fédération Française d’Etudes et de Sports Sous-Marins (FFE
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/ViFbT586rKo?si=YQE3OTwA-yV3u_Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# Nouveaux? 
-
 Si vous voulez vous inscrire au club, l'accueil des nouveaux adhérents se fera directement à la [piscine René Touzin à Ris Orangis](https://www.grandparissud.fr/equipement/piscine-rene-touzin/) à 20h tous les mercredis. Nous vous proposons un baptême gratuit pour vous familiariser avec l'univers de la plongée. [Remplissez ce formulaire](https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2024-2025) et nous prendrons rapidement contact avec vous !
 
 <div>
@@ -18,8 +16,6 @@ Si vous voulez vous inscrire au club, l'accueil des nouveaux adhérents se fera 
         <img src='assets/img/baptism.png' alt ='bapteme de plongee' />
     </a>
 </div>
-
-# Inscriptions
 
 Pour les plongeurs qui souhaitent se réinscrire, [ce formulaire](https://www.helloasso.com/associations/asrp-ris-plongee/adhesions/adhesion-2024-2025) permet de réaliser l'ensemble des démarches depuis votre canapé!
 
