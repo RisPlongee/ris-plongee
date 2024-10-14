@@ -3,9 +3,9 @@ feature_image: /assets/img/cover.jpg
 layout: post
 title: Sortie des Issambres, sept. 2024
 comments: false
+categories:
+- Sorties
 ---
-
-# Les Issambres, sept. 2024
 
 ![l'équipe des Issambres](/assets/img/posts/issambres-2024.jpg)
 
