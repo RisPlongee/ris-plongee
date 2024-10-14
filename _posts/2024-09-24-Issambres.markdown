@@ -6,7 +6,7 @@ title: Sortie des Issambres, sept. 2024
 
 # Les Issambres, sept. 2024
 
-![l'équipe des Issambres](/assets/img/IMG_D5DAADF66CA8-1.jpeg)
+![l'équipe des Issambres](/assets/img/posts/issambres-2024.jpg)
 
 C'est la rentrée sportive, un premier groupe de plongeurs de Ris-Plongée ont validé leurs différents niveaux.
 
