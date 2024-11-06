@@ -5,6 +5,8 @@ feature_image: assets/img/cover.jpg
 Nous sommes joignable par mail à l'adresse suivante : 
 [risplongee@gmail.com](mailto:risplongee+adhesion@gmail.com)
 
+Ou via [Facebook](https://www.facebook.com/people/Ris-Plong%C3%A9e/pfbid081pvEYLc6cwrZXcnRv3nUq4jxbg2M18ahQA9adH7wRayQ1TBccToxqnR74VJpqENl/)
+
 Nous avons aussi une communauté WhatsApp accessible via [ce lien](https://chat.whatsapp.com/LCriYyvy98GBHcAubOUgeL)
 
 {% include figure.html image="assets/img/whatsapp.png" caption="Rejoignez notre communauté WhatsApp" %}
