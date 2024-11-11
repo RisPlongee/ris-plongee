@@ -1,0 +1,12 @@
+---
+feature_image: /assets/img/cover.jpg
+layout: post
+title: Sortie L'Estartit
+comments: false
+categories:
+- Sorties
+---
+
+Sortie exploration avec l'équipe de Ris Plongée. Du soleil, de la bonne humeur et de supers souvenirs.
+
+![l'équipe de l'Estartit](/assets/img/posts/estartit-2024.jpg)
