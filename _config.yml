@@ -34,12 +34,10 @@ sharing_links:
 seo_description_max_words: 200
 
 navigation_header:
-  - title: Accueil
-    url: /
-  - title: Le club
-    url: /club.html
   - title: Actualités
     url: /blog.html
+  - title: Le club
+    url: /club.html
   - title: Nous contacter
     url: /contact.html
   - title: Notre agenda
