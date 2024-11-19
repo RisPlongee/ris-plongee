@@ -1,6 +1,6 @@
 ---
 feature_image: assets/img/cover.jpg
-title: Ris Plongée : votre club de plongée à Ris-Orangis, Essonne
+title: votre club de plongée à Ris-Orangis, Essonne
 ---
 
 Bienvenue chez Ris Plongée, une association sportive dédiée à la plongée sous-marine depuis plus de 50 ans, basée à Ris-Orangis en Essonne. Notre club de plongée associatif, régi par la loi 1901, offre un cadre convivial et chaleureux pour découvrir, apprendre et pratiquer la plongée sous-marine, que vous soyez débutant ou plongeur confirmé.
