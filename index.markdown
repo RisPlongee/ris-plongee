@@ -20,10 +20,11 @@ Bienvenue chez Ris Plongée, une association sportive dédiée à la plongée so
 ## 🤿 Découvrez la plongée autour de vous
 
 Chez Ris Plongée, nous sommes fiers de proposer des activités de plongée sous-marine accessibles à tous :
-	•	Initiations à la plongée pour enfants et adultes.
-	•	Cours de plongée pour débutants et perfectionnement pour plongeurs confirmés.
-	•	Plongées en milieu naturel, de jour comme de nuit, et sorties en mer pour découvrir les merveilles du monde subaquatique.
-	•	Stages de plongée et événements tout au long de l’année.
+
+- Initiations à la plongée pour enfants et adultes.
+- Cours de plongée pour débutants et perfectionnement pour plongeurs confirmés.
+- Plongées en milieu naturel, de jour comme de nuit, et sorties en mer pour découvrir les merveilles du monde subaquatique.
+- Stages de plongée et événements tout au long de l’année.
 
 **Rejoignez-nous dès maintenant !**
 
