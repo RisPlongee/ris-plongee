@@ -34,10 +34,10 @@ Pour les plongeurs qui souhaitent se réinscrire, [ce formulaire](https://www.he
 
 <div>
     <a href='https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2024-2025'>
-        <img src='assets/img/baptism.png' alt ='bapteme de plongee' />
+        <img src='assets/img/baptism.jpg' alt ='bapteme de plongee' />
     </a>
     <a href='https://www.helloasso.com/associations/asrp-ris-plongee/adhesions/adhesion-2024-2025'>
-        <img src='assets/img/subscribe.png' alt='inscription à Ris Plongée' />
+        <img src='assets/img/subscribe.jpg' alt='inscription à Ris Plongée' />
     </a>
 </div>
 
