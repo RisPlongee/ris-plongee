@@ -2,7 +2,9 @@
 feature_image: assets/img/cover.jpg
 ---
 
-[Email](mailto:risplongee+adhesion@gmail.com), [Facebook](https://www.facebook.com/people/Ris-Plong%C3%A9e/pfbid081pvEYLc6cwrZXcnRv3nUq4jxbg2M18ahQA9adH7wRayQ1TBccToxqnR74VJpqENl/), [Instagram @risplongee](https://www.instagram.com/risplongee/)
+Vous pouvez nous joindre par [mail](mailto:risplongee+adhesion@gmail.com).
+
+Toute l'actualité du club est accessible via [Facebook](https://www.facebook.com/people/Ris-Plong%C3%A9e/pfbid081pvEYLc6cwrZXcnRv3nUq4jxbg2M18ahQA9adH7wRayQ1TBccToxqnR74VJpqENl/) et [Instagram @risplongee](https://www.instagram.com/risplongee/)
 
 Nous avons aussi une communauté WhatsApp accessible via [ce lien](https://chat.whatsapp.com/LCriYyvy98GBHcAubOUgeL)
 

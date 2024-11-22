@@ -31,8 +31,6 @@ social_links:
 seo_description_max_words: 200
 
 navigation_header:
-  - title: Actualités
-    url: /blog.html
   - title: Le club
     url: /club.html
   - title: Nous contacter
