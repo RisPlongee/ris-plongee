@@ -49,3 +49,5 @@ fonts:
 collections:
   posts:
     feature_image: "/assets/img/cover.jpg"
+
+permalink: /404.html
