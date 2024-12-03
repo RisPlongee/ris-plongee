@@ -11,6 +11,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache
 
 author: Ris Plongée
 
@@ -51,3 +52,10 @@ collections:
     feature_image: "/assets/img/cover.jpg"
 
 permalink: /404.html
+
+favicons:
+  48: '/assets/img/favicon/favicon.ico'
+  96: '/assets/img/favicon/favicon-96x96.png'
+  180: '/assets/img/favicon/apple-touch-icon.png'
+  192: '/assets/img/favicon/web-app-manifest-192x192.png'
+  512: '/assets/img/favicon/web-app-manifest-512x512.png'
