@@ -17,7 +17,11 @@ Bienvenue chez Ris Plongée, une association sportive dédiée à la plongée so
 
 **Affiliation Reconnue :** Notre club est affilié à la Fédération Française d’Études et de Sports Sous-Marins (FFESSM) et à la FSGT, garantissant des formations de qualité et une sécurité optimale pour toutes vos plongées.
 
-## Nouveauté : Apnée et Activité Physique en Piscine
+## 📚 Formation Continue et Personnalisée
+
+Chez Ris Plongée, nous formons nos plongeurs tout au long de l'hiver pour qu'ils soient prêts à pratiquer en Méditerranée ou en Bretagne dès les beaux jours. Nos cours en continu nous permettent de passer le temps nécessaire avec chaque plongeur, en adaptant le rythme à chacun. Notre objectif est de former des plongeurs capables de pratiquer dans les meilleures conditions, avec un niveau supérieur à celui des formations commerciales en bord de mer. Grâce à nos instructeurs bénévoles et passionnés, nous nous assurons que chaque plongeur atteint un niveau idéal pour profiter pleinement de l'univers subaquatique.
+
+## 🖐 Nouveauté : Apnée et Activité Physique en Piscine
 
 Découvrez notre nouvelle activité d'apnée avec activité physique en piscine ! Idéale pour ceux qui pratiquent le yoga, l'apnée permet d'améliorer la maîtrise de la respiration, la concentration et la gestion du stress. C'est une activité ludique et complémentaire au yoga, parfaite pour les jeunes générations en quête de bien-être et de défi personnel. Cours disponibles tous les mercredis à 20h.
 
