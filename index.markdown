@@ -16,7 +16,7 @@ Bienvenue chez Ris Plongée, une association sportive dédiée à la plongée so
 
 **Affiliation Reconnue :** Notre club est affilié à la Fédération Française d’Études et de Sports Sous-Marins (FFESSM) et à la FSGT, garantissant des formations de qualité et une sécurité optimale pour toutes vos plongées.
 
-**Tarif Avantageux :** Avec une adhésion annuelle d'environ **200€**, la moins chère de l'Essonne, vous bénéficiez d'un accès hebdomadaire de 2h à la piscine Renz Touzin, d'accès réguliers aux fosses toute l'année, du prêt de matériel (détendeur, stab, etc.), du prêt de matériel entre membres, et d'une pratique soutenue. De plus, nous favorisons le covoiturage lors des sorties en mer.
+**Tarif Avantageux :** Avec une adhésion annuelle d'environ **200€**, la moins chère de l'Essonne, vous bénéficiez d'une formation allant du PE12 au PE40 ou PA20, d'un accès hebdomadaire de 2h à la piscine René Touzin, d'accès réguliers aux fosses toute l'année, du prêt de matériel (détendeur, stab, etc.), du prêt de matériel entre membres, et d'une pratique soutenue. De plus, nous favorisons le covoiturage lors des sorties en mer.
 
 ## 📚 Formation Continue et Personnalisée
 
