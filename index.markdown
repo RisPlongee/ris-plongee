@@ -8,7 +8,7 @@ Notre club de plongée associatif, régi par la loi 1901, offre un cadre convivi
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/ViFbT586rKo?si=YQE3OTwA-yV3u_Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Pourquoi Choisir Ris Plongée ?
+## 🤔 Pourquoi Choisir Ris Plongée ?
 
 **Formations Adaptées à Tous :** Nous proposons des cours de plongée en piscine, des stages de plongée, et des formations reconnues, comme le **baptême de plongée**, les **niveaux de plongée** qui vous permettront de plonger partout dans le monde.
 
@@ -24,7 +24,7 @@ Notre club de plongée associatif, régi par la loi 1901, offre un cadre convivi
 
 Découvrez notre nouvelle activité d'apnée avec activité physique en piscine ! Idéale pour ceux qui pratiquent le yoga, l'apnée permet d'améliorer la maîtrise de la respiration, la concentration et la gestion du stress. C'est une activité ludique et complémentaire au yoga, parfaite pour les jeunes générations en quête de bien-être et de défi personnel. Cours disponibles tous les mercredis à 20h.
 
-## Nous proposons un baptême gratuit pour vous familiariser avec l'univers de la plongée !
+## 🤿 Nous proposons un baptême gratuit pour vous familiariser avec l'univers de la plongée !
 
 <div>
     <a href='https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2024-2025'>
