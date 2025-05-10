@@ -37,7 +37,7 @@ Pour environ **200€**,
 - vous avez accès à des fosses (20M de profondeur) chaque mois pour parfaire votre formation
 - vous avez accès à une formation de qualité tout au long de l'année PE20/PE40 ou PA20
 - vous avez accès aux sorties du club pour pratiquer la plongée en Bretagne et en Méditerranée
-- vous adhérez à la FFESSM ou la FSGT et êtes assurés y pour la pratique de votre loisir 
+- vous adhérez à la FFESSM ou la FSGT et êtes assurés pour la pratique de la plongée 
 
 ## Équipement et Conseils
 
