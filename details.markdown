@@ -10,13 +10,13 @@ La plongée sous-marine est une activité qui ouvre les portes à un monde sous-
 
 À Ris-Orangis, dans l'Essonne, le club "Ris Plongée" est l'endroit idéal pour débuter votre aventure sous-marine. Nous proposons des baptêmes de plongée gratuits chaque mercredi soir à la piscine René Touzin. Ces séances sont conçues pour vous familiariser avec l'équipement et les techniques de base dans un environnement sécurisé et encadré par des professionnels passionnés1.
 
-#Pourquoi suivre une formation ?
+# Pourquoi suivre une formation ?
 
 Suivre une formation de plongée vous permet d'acquérir les compétences nécessaires pour plonger en toute sécurité et profiter pleinement de chaque immersion. Les formations reconnues, comme celles proposées par "Ris Plongée", vous permettent d'obtenir des certifications (Niveau 1, Niveau 2, etc.) qui sont valables dans le monde entier. Ces formations couvrent les aspects théoriques et pratiques de la plongée, vous préparant à explorer les fonds marins en toute confiance1.
 
 La plongée comporte des risques, et il est crucial d'être bien encadré et formé pour les éviter. À "Ris Plongée", nous mettons l'accent sur la sécurité et la qualité de l'enseignement pour garantir une expérience de plongée sûre et agréable.
 
-#Pourquoi Ris Plongée ?
+# Pourquoi Ris Plongée ?
 
 "Ris Plongée" est un club historique, créé en 1970, qui allie passion, sécurité et convivialité. Affilié à la Fédération Française d’Études et de Sports Sous-Marins (FFESSM) et à la FSGT, notre club garantit des formations de qualité et une sécurité optimale pour toutes vos plongées. Nous organisons régulièrement des stages, des sorties en mer et des événements tout au long de l'année, vous offrant ainsi de nombreuses opportunités de plonger dans des environnements variés et enrichissants12.
 Qualité des Formations
