@@ -2,7 +2,6 @@
 feature_image: assets/img/cover.jpg
 ---
 
-# Commencer la plongée, pour quoi faire ?
 
 La plongée sous-marine est une activité qui ouvre les portes à un monde sous-marin fascinant et méconnu. C'est une aventure unique qui permet de découvrir la biodiversité marine, d'explorer des épaves, et de vivre des sensations fortes dans un environnement calme et apaisant. La plongée est également bénéfique pour la santé, améliorant la respiration, la circulation sanguine et la relaxation.
 
