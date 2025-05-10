@@ -2,45 +2,33 @@
 feature_image: assets/img/cover.jpg
 title: votre club de plongée à Ris-Orangis, Essonne
 ---
-Bienvenue chez Ris Plongée, une association sportive dédiée à la plongée sous-marine depuis plus de 50 ans, basée à Ris-Orangis en Essonne. Notre club de plongée associatif, régi par la loi 1901, offre un cadre convivial et chaleureux pour découvrir, apprendre et pratiquer la plongée sous-marine, que vous soyez débutant ou plongeur confirmé.
+Bienvenue chez Ris Plongée, une association sportive dédiée à la plongée sous-marine depuis plus de 50 ans, basée à Ris-Orangis en Essonne.
+
+Notre club de plongée associatif, régi par la loi 1901, offre un cadre convivial et chaleureux pour découvrir, apprendre et pratiquer la plongée sous-marine, que vous soyez débutant ou plongeur confirmé.
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/ViFbT586rKo?si=YQE3OTwA-yV3u_Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Pourquoi Choisir Ris Plongée ?
 
-**Formations Adaptées à Tous :** Nous proposons des cours de plongée en piscine, des stages de plongée, et des formations reconnues, comme le baptême de plongée, le niveau 1 de plongée (N1, N2, N3 et N4) qui vous permettront de plonger partout dans le monde.
+**Formations Adaptées à Tous :** Nous proposons des cours de plongée en piscine, des stages de plongée, et des formations reconnues, comme le **baptême de plongée**, les **niveaux de plongée** qui vous permettront de plonger partout dans le monde.
 
-**Une Piscine Dédiée :** Tous nos entraînements se déroulent à la piscine René Touzin à Ris-Orangis, un lieu idéal pour apprendre à plonger en toute sécurité.
+**Une Piscine Dédiée :** Tous nos entraînements se déroulent à la **piscine René Touzin** à Ris-Orangis, un lieu idéal pour apprendre à plonger en toute sécurité.
 
 **Initiation Gratuite :** Venez vivre votre premier baptême de plongée offert par des moniteurs passionnés, chaque mercredi à 20h.
 
-**Affiliation Reconnue :** Notre club est affilié à la Fédération Française d’Études et de Sports Sous-Marins (FFESSM) et à la FSGT, garantissant des formations de qualité et une sécurité optimale pour toutes vos plongées.
+**Affiliation Reconnue :** Notre club est affilié à la Fédération Française d’Études et de Sports Sous-Marins (**FFESSM**) et à la **FSGT**, garantissant des formations de qualité et une sécurité optimale pour toutes vos plongées.
 
-**Tarif Avantageux :** Avec une adhésion annuelle d'environ **200€**, la moins chère de l'Essonne, vous bénéficiez d'une formation allant du PE12 au PE40 ou PA20, d'un accès hebdomadaire de 2h à la piscine René Touzin, d'accès réguliers aux fosses toute l'année, du prêt de matériel (détendeur, stab, etc.), du prêt de matériel entre membres, et d'une pratique soutenue. De plus, nous favorisons le covoiturage lors des sorties en mer.
-
-## 📚 Formation Continue et Personnalisée
-
-Chez Ris Plongée, nous formons nos plongeurs tout au long de l'hiver pour qu'ils soient prêts à pratiquer en Méditerranée ou en Bretagne dès les beaux jours. Nos cours en continu nous permettent de passer le temps nécessaire avec chaque plongeur, en adaptant le rythme à chacun. Notre objectif est de former des plongeurs capables de pratiquer dans les meilleures conditions, avec un niveau supérieur à celui des formations commerciales en bord de mer. Grâce à nos instructeurs bénévoles et passionnés, nous nous assurons que chaque plongeur atteint un niveau idéal pour profiter pleinement de l'univers subaquatique.
+**Tarif Avantageux :** Avec une adhésion annuelle d'environ **200€**, la moins chère de l'Essonne, vous bénéficiez d'une formation allant du PE12 au PE40 ou PA20, d'un accès hebdomadaire de 2h à la piscine René Touzin, d'accès réguliers aux fosses toute l'année, du prêt de matériel (détendeur, stab, etc.), du prêt de matériel entre membres, et d'une pratique soutenue. De plus, nous organisons plusieurs sorties en mer dans le courant de l'année.
 
 ## 🖐 Apnée et Activité Physique en Piscine
 
 Découvrez notre nouvelle activité d'apnée avec activité physique en piscine ! Idéale pour ceux qui pratiquent le yoga, l'apnée permet d'améliorer la maîtrise de la respiration, la concentration et la gestion du stress. C'est une activité ludique et complémentaire au yoga, parfaite pour les jeunes générations en quête de bien-être et de défi personnel. Cours disponibles tous les mercredis à 20h.
 
-
-## Rejoignez-nous dès Maintenant !
-
-Si vous voulez vous inscrire au club, l’accueil des nouveaux adhérents se fera directement à la piscine René Touzin à Ris-Orangis à 20h tous les mercredis. Nous vous proposons un baptême gratuit pour vous familiariser avec l’univers de la plongée. Remplissez ce formulaire et nous prendrons rapidement contact avec vous !
-
-Pour les plongeurs qui souhaitent se réinscrire, ce formulaire permet de réaliser l’ensemble des démarches depuis votre canapé !
-
-N'hésitez pas à ajuster les détails en fonction de vos besoins spécifiques. Si vous avez besoin de plus d'aide ou de conseils supplémentaires, je suis là pour vous assister !
+## Nous proposons un baptême gratuit pour vous familiariser avec l'univers de la plongée !
 
 <div>
     <a href='https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2024-2025'>
         <img src='assets/img/baptism.jpg' alt ='bapteme de plongee' />
-    </a>
-    <a href='https://www.helloasso.com/associations/asrp-ris-plongee/adhesions/adhesion-2024-2025'>
-        <img src='assets/img/subscribe.jpg' alt='inscription à Ris Plongée' />
     </a>
 </div>
 
