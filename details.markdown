@@ -31,6 +31,14 @@ Chez "Ris Plongée", l'ambiance est chaleureuse et conviviale. Nous sommes un cl
 
 Nous proposons des tarifs attractifs pour nos formations et nos activités. Notre objectif n'est pas de faire du chiffre, mais de rendre la plongée accessible à tous et de vous accompagner tout au long de votre apprentissage.
 
+Pour environ **200€**,
+
+- vous avez accès à la piscine René Touzin 2h par semaine
+- vous avez accès à des fosses (20M de profondeur) chaque mois pour parfaire votre formation
+- vous avez accès à une formation de qualité tout au long de l'année PE20/PE40 ou PA20
+- vous avez accès aux sorties du club pour pratiquer la plongée en Bretagne et en Méditerranée
+- vous adhérer à la FFESSM ou la FSGT et êtes assuré pour la pratique de votre loisir 
+
 ## Équipement et Conseils
 
 Nous disposons de tout l'équipement nécessaire pour vos plongées et proposons des conseils avisés pour choisir le matériel adapté à vos besoins. Nous offrons également la possibilité de prêter du matériel si nécessaire.
