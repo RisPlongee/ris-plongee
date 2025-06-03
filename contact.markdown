@@ -1,5 +1,6 @@
 ---
 feature_image: assets/img/cover.jpg
+title: Réseaux sociaux
 ---
 
 # Facebook
