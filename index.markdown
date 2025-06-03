@@ -1,6 +1,6 @@
 ---
 feature_image: assets/img/cover.jpg
-title: votre club de plongée à Ris-Orangis, Essonne
+title: Club de plongée à Ris-Orangis, Essonne
 ---
 
 <div style="display: flex">
@@ -10,13 +10,9 @@ Bienvenue chez Ris Plongée, une association sportive dédiée à la plongée so
 Notre club de plongée associatif, régi par la loi 1901, offre un cadre convivial et chaleureux pour découvrir, apprendre et pratiquer la plongée sous-marine, que vous soyez débutant ou plongeur confirmé.
 </div>
 
-## 🖐 Apnée et Activité Physique en Piscine
+## 🤿 Baptême gratuit pour vous familiariser avec l'univers de la plongée !
 
-Découvrez notre nouvelle activité d'apnée avec activité physique en piscine ! Idéale pour ceux qui pratiquent le yoga, l'apnée permet d'améliorer la maîtrise de la respiration, la concentration et la gestion du stress. C'est une activité ludique et complémentaire au yoga. **Cours disponibles tous les mercredis à 20h**.
-
-## 🤿 Nous proposons un baptême gratuit pour vous familiariser avec l'univers de la plongée !
-
-<div>
+<div style="display: flex">
     <a href='https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2024-2025'>
         <img src='assets/img/baptism.jpg' alt ='bapteme de plongee' />
     </a>
