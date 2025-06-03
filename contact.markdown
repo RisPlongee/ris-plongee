@@ -9,8 +9,6 @@ Nous avons aussi une communauté WhatsApp accessible via [ce lien](https://chat.
 
 {% include figure.html image="assets/img/whatsapp.png" caption="Rejoignez notre communauté WhatsApp" %}
 
-Enfin, les séances sportives et pédagogiques ont lieu à la piscine René Touzin à Ris Orangis. Les cours théoriques ainsi que les "after" se situent au club house dans les maisons en bois derrière la piscine.
-
 Toute l'actualité du club est accessible via [Facebook](https://www.facebook.com/people/Ris-Plong%C3%A9e/pfbid081pvEYLc6cwrZXcnRv3nUq4jxbg2M18ahQA9adH7wRayQ1TBccToxqnR74VJpqENl/)
 
 Vous pouvez aussi nous joindre par [mail](mailto:risplongee+adhesion@gmail.com).
