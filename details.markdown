@@ -2,8 +2,6 @@
 feature_image: assets/img/cover.jpg
 ---
 
-# En Essonne, où commencer la plongée ?
-
 À Ris-Orangis, dans l'Essonne, le club "Ris Plongée" est l'endroit idéal pour débuter votre aventure sous-marine. Nous proposons des baptêmes de plongée gratuits chaque mercredi soir à la piscine René Touzin. Ces séances sont conçues pour vous familiariser avec l'équipement et les techniques de base dans un environnement sécurisé et encadré par des professionnels passionnés.
 
 # Pourquoi suivre une formation ?
