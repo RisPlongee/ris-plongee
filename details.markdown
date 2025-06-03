@@ -2,9 +2,6 @@
 feature_image: assets/img/cover.jpg
 ---
 
-
-La plongée sous-marine est une activité qui ouvre les portes à un monde sous-marin fascinant et méconnu. C'est une aventure unique qui permet de découvrir la biodiversité marine, d'explorer des épaves, et de vivre des sensations fortes dans un environnement calme et apaisant. La plongée est également bénéfique pour la santé, améliorant la respiration, la circulation sanguine et la relaxation.
-
 # En Essonne, où commencer la plongée ?
 
 À Ris-Orangis, dans l'Essonne, le club "Ris Plongée" est l'endroit idéal pour débuter votre aventure sous-marine. Nous proposons des baptêmes de plongée gratuits chaque mercredi soir à la piscine René Touzin. Ces séances sont conçues pour vous familiariser avec l'équipement et les techniques de base dans un environnement sécurisé et encadré par des professionnels passionnés.
@@ -35,16 +32,23 @@ Pour environ **200€**,
 
 - vous avez accès à la piscine René Touzin 2h par semaine
 - vous avez accès à des fosses (20M de profondeur) chaque mois pour parfaire votre formation
-- vous avez accès à une formation de qualité tout au long de l'année PE20/PE40 ou PA20
-- vous avez accès aux sorties du club pour pratiquer la plongée en Bretagne et en Méditerranée
+- vous avez accès à une formation de qualité tout au long de l'année PE20/PE40 et PA20/PA40/PA60
+- vous avez accès aux sorties du club pour pratiquer la plongée en France
 - vous adhérez à la FFESSM ou la FSGT et êtes assurés pour la pratique de la plongée 
 
 ## Équipement et Conseils
 
 Nous disposons de tout l'équipement nécessaire pour vos plongées et proposons des conseils avisés pour choisir le matériel adapté à vos besoins. Nous offrons également la possibilité de prêter du matériel si nécessaire.
 
-## Reconnaissances et Équivalences
+## Comparaison avec PADI
 
 Si vous avez un niveau PADI, il sera facile pour vous d'obtenir une équivalence pour plonger en France dans l'univers associatif. Les formations françaises, comme celles proposées par "Ris Plongée", offrent des compétences plus étendues que les certifications PADI. Une fois votre Niveau 2 en poche, vous aurez acquis des connaissances et des compétences supérieures à celles offertes par PADI.
 
-Rejoignez-nous dès maintenant pour une aventure inoubliable sous les mers !
+| Niveau de Certification | Équivalent Français | Description | Nombre de Plongées | Jours Nécessaires | Coût Estimé | Via Ris Plongée |
+|-------------------------|---------------------|-------------|--------------------|-------------------|-------------|-----------------|
+| PADI Discover Scuba Diving | Baptême de plongée | Une introduction à la plongée sous-marine pour les débutants. | 1 | 0.5 | Entre 100 € et 150 € | gratuit |
+| PADI Scuba Diver | PE20 | Une certification intermédiaire qui permet de plonger sous la supervision d'un professionnel PADI. | 3 | 1-2 | Entre 250 € et 350 € | 1 saison sportive, 200€ | 
+| PADI Open Water Diver | PA20 (Plongeur autonome jusqu'à 20m) | La certification de plongée la plus populaire au monde. Permet de plonger jusqu'à 18 mètres avec un partenaire certifié. | 5 | 3-4 | Entre 400 € et 600 € | 1 saison sportive, 200€ |
+| PADI Advanced Open Water Diver | PE40-PA40 (Plongeur autonome jusqu'à 40m) | Ce cours permet d'explorer de nouvelles aventures en plongée et d'améliorer vos compétences. | 5 | 2-3 | Entre 300 € et 500 € | 1 saison sportive, 200€ |
+| PADI Rescue Diver | PA60 (Plongeur autonome jusqu'à 60m) | Apprenez à prévenir et à gérer les urgences en plongée. | Variable | 3-5 | Entre 400 € et 600 € | 1 saison sportive, 200€ |
+
