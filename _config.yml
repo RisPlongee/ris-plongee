@@ -32,14 +32,12 @@ social_links:
 seo_description_max_words: 200
 
 navigation_header:
-  - title: Pourquoi la plongée?
+  - title: Pourquoi Ris Plongée?
     url: /details.html
+  - title: Réseaux sociaux
+    url: /contact.html
   - title: Le club
     url: /club.html
-  - title: Nous contacter
-    url: /contact.html
-  - title: Notre agenda
-    url: /agenda.html
   - title: Nos videos
     url: https://www.youtube.com/@RisPlongee
 
