@@ -39,15 +39,3 @@ Pour environ **200€**,
 
 Nous disposons de tout l'équipement nécessaire pour vos plongées et proposons des conseils avisés pour choisir le matériel adapté à vos besoins. Nous offrons également la possibilité de prêter du matériel si nécessaire.
 
-## Comparaison avec PADI
-
-Si vous avez un niveau PADI, il sera facile pour vous d'obtenir une équivalence pour plonger en France dans l'univers associatif. Les formations françaises, comme celles proposées par "Ris Plongée", offrent des compétences plus étendues que les certifications PADI. Une fois votre Niveau 2 en poche, vous aurez acquis des connaissances et des compétences supérieures à celles offertes par PADI.
-
-| Niveau de Certification | Équivalent Français | Description | Nombre de Plongées | Jours Nécessaires | Coût Estimé | Via Ris Plongée |
-|-------------------------|---------------------|-------------|--------------------|-------------------|-------------|-----------------|
-| PADI Discover Scuba Diving | Baptême de plongée | Une introduction à la plongée sous-marine pour les débutants. | 1 | 0.5 | Entre 100 € et 150 € | gratuit |
-| PADI Scuba Diver | PE20 | Une certification intermédiaire qui permet de plonger sous la supervision d'un professionnel PADI. | 3 | 1-2 | Entre 250 € et 350 € | 1 saison sportive, 200€ | 
-| PADI Open Water Diver | PA20 (Plongeur autonome jusqu'à 20m) | La certification de plongée la plus populaire au monde. Permet de plonger jusqu'à 18 mètres avec un partenaire certifié. | 5 | 3-4 | Entre 400 € et 600 € | 1 saison sportive, 200€ |
-| PADI Advanced Open Water Diver | PE40-PA40 (Plongeur autonome jusqu'à 40m) | Ce cours permet d'explorer de nouvelles aventures en plongée et d'améliorer vos compétences. | 5 | 2-3 | Entre 300 € et 500 € | 1 saison sportive, 200€ |
-| PADI Rescue Diver | PA60 (Plongeur autonome jusqu'à 60m) | Apprenez à prévenir et à gérer les urgences en plongée. | Variable | 3-5 | Entre 400 € et 600 € | 1 saison sportive, 200€ |
-
