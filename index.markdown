@@ -18,7 +18,7 @@ title: Club de plongée à Ris-Orangis, Essonne
 <p>Nous proposons des baptêmes gratuits pour vous familiariser avec l'univers de la plongée.</p>
 <p>Il vous suffit de vous inscrire via ce <a href='https://www.helloasso.com/associations/asrp-ris-plongee'>formulaire</a> et nous reviendrons très vite vers vous.</p>
 </div>
-<a href='https://www.helloasso.com/associations/asrp-ris-plongee/evenements/bapteme-de-plongee-2024-2025'><img src='assets/img/baptism.jpg' alt ='bapteme de plongee' /></a>
+<a href='https://www.helloasso.com/associations/asrp-ris-plongee'><img src='assets/img/baptism.jpg' alt ='bapteme de plongee' /></a>
 </div>
 
 ## 📍 Où nous trouver ?
