@@ -11,6 +11,11 @@ title: Club de plongée à Ris-Orangis, Essonne
 </div>
 </div>
 
+## Vous souhaitez vous inscrire pour la première fois ?
+
+<p>Débutant ou expérimenté, vous êtes les bienvenus à Ris Plongée !</p>
+<p>S'il s'agit de votre première expérience avec le milieu aquatique, venez réaliser un <a href='https://www.helloasso.com/associations/asrp-ris-plongee'>baptême gratuit</a>, ou prenez <a href='contact.html'>contact par mail ou via les réseaux sociaux !</a></p>
+
 ## 🤿 Baptême gratuit !
 
 <div>
