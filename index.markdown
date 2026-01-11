@@ -3,8 +3,6 @@ feature_image: assets/img/cover.jpg
 title: Club de plongée à Ris-Orangis, Essonne
 ---
 
-<img src='https://www.salon-de-la-plongee.com/resources/images/visuals/2026/Salon%20Plongee%202026_Banniere_700x250px_FR.jpg' alt='salon de la ploonée 2026!' />
-
 <div>
 <iframe width="200" height="315" src="https://www.youtube-nocookie.com/embed/ViFbT586rKo?si=YQE3OTwA-yV3u_Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <div>
