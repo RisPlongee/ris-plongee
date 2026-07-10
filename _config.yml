@@ -5,6 +5,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - RUNBOOK.md
 
 plugins:
   - jekyll-seo-tag
@@ -23,9 +24,40 @@ email: risplongee+website@gmail.com
 url: https://www.ris-plongee.com
 description: "Découvrez la passion de la plongée avec Ris-plongée à Ris-Orangis, dans le département de l'Essonne. Des baptêmes gratuits chaque mercredi soir et des sorties en mer vous attendent. Rejoignez-nous dès aujourd'hui pour une aventure inoubliable !"
 
+# Image de partage social (Open Graph / Twitter) — reprise par jekyll-seo-tag
+image: /assets/img/cover.jpg
+twitter:
+  card: summary_large_image
+
 social_links:
   Facebook: https://www.facebook.com/people/Ris-Plong%C3%A9e/pfbid081pvEYLc6cwrZXcnRv3nUq4jxbg2M18ahQA9adH7wRayQ1TBccToxqnR74VJpqENl/
   Instagram: https://www.instagram.com/risplongee/
+
+# Profils officiels du club — alimentent le "sameAs" des données structurées
+same_as:
+  - https://www.facebook.com/people/Ris-Plong%C3%A9e/pfbid081pvEYLc6cwrZXcnRv3nUq4jxbg2M18ahQA9adH7wRayQ1TBccToxqnR74VJpqENl/
+  - https://www.instagram.com/risplongee/
+  - https://www.youtube.com/@RisPlongee
+
+# Faits du club — alimentent le JSON-LD SportsClub (SEO local)
+club:
+  sport: Plongée sous-marine
+  founding_year: 1970
+  price_range: "≈ 200 € / an"
+  address:
+    street: Piscine René Touzin
+    locality: Ris-Orangis
+    postal_code: "91130"
+    region: Essonne
+    country: FR
+  geo:
+    lat: 48.6470276
+    lng: 2.4038455
+  affiliations:
+    - name: FFESSM
+      url: https://www.ffessm.fr/
+    - name: FSGT
+      url: https://www.fsgt.org/
 
 seo_description_max_words: 200
 

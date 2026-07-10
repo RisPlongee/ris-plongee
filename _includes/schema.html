@@ -1,0 +1,62 @@
+{%- comment -%}
+Données structurées du club (SEO local). Complète le noeud WebSite déjà émis par
+jekyll-seo-tag : adresse, géolocalisation, horaires, affiliations, offre "baptême
+gratuit" et profils sociaux (sameAs). Les valeurs proviennent de _config.yml.
+{%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SportsClub",
+  "@id": "{{ site.url }}/#club",
+  "name": {{ site.title | jsonify }},
+  "alternateName": {{ site.author | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "url": "{{ site.url }}/",
+  "logo": "{{ site.url }}{{ site.logo }}",
+  "image": "{{ site.url }}{{ site.image }}",
+  "email": {{ site.email | jsonify }},
+  "sport": {{ site.club.sport | jsonify }},
+  "foundingDate": "{{ site.club.founding_year }}",
+  "priceRange": {{ site.club.price_range | jsonify }},
+  "areaServed": { "@type": "AdministrativeArea", "name": {{ site.club.address.region | jsonify }} },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": {{ site.club.address.street | jsonify }},
+    "addressLocality": {{ site.club.address.locality | jsonify }},
+    "postalCode": {{ site.club.address.postal_code | jsonify }},
+    "addressRegion": {{ site.club.address.region | jsonify }},
+    "addressCountry": {{ site.club.address.country | jsonify }}
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": {{ site.club.geo.lat }},
+    "longitude": {{ site.club.geo.lng }}
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "https://schema.org/Wednesday",
+      "opens": "20:00",
+      "closes": "23:00"
+    }
+  ],
+  "makesOffer": {
+    "@type": "Offer",
+    "name": "Baptême de plongée gratuit",
+    "price": "0",
+    "priceCurrency": "EUR",
+    "url": {{ site.call_to_action.url | jsonify }},
+    "availability": "https://schema.org/InStock"
+  },
+  "memberOf": [
+    {%- for a in site.club.affiliations -%}
+    { "@type": "Organization", "name": {{ a.name | jsonify }}, "url": {{ a.url | jsonify }} }{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+  ],
+  "sameAs": [
+    {%- for url in site.same_as -%}
+    {{ url | jsonify }}{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+  ]
+}
+</script>
