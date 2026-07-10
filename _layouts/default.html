@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'fr-FR' }}">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  <div class="page {% if page.home %}page--descent{% else %}page--deep{% endif %}" id="top">
+    <canvas id="bubbles" aria-hidden="true"></canvas>
+
+    {% if page.home %}
+    <div class="gauge" aria-hidden="true">
+      <span class="reading" id="reading">0 m</span>
+      <div class="track" id="track"><div class="fill" id="fill"></div></div>
+      <span class="label">Profondeur</span>
+    </div>
+    {% endif %}
+
+    <div class="wrap">
+      {% include header.html %}
+
+      <main>
+        {% if page.home %}
+          {{ content }}
+        {% else %}
+          <section class="band page-hero">
+            <div class="container">
+              {% if page.title %}<h1 class="page-title reveal">{{ page.title }}</h1>{% endif %}
+            </div>
+          </section>
+          <section class="band">
+            <div class="container prose reveal">
+              {{ content }}
+            </div>
+          </section>
+        {% endif %}
+      </main>
+
+      {% include footer.html %}
+    </div>
+  </div>
+
+  {% include scripts.html %}
+</body>
+</html>

@@ -6,9 +6,7 @@ exclude:
   - Gemfile.lock
   - vendor
 
-remote_theme: daviddarnes/alembic@main
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
@@ -25,39 +23,33 @@ email: risplongee+website@gmail.com
 url: https://www.ris-plongee.com
 description: "Découvrez la passion de la plongée avec Ris-plongée à Ris-Orangis, dans le département de l'Essonne. Des baptêmes gratuits chaque mercredi soir et des sorties en mer vous attendent. Rejoignez-nous dès aujourd'hui pour une aventure inoubliable !"
 
-social_links: 
-  Facebook: https://www.facebook.com/people/Ris-Plongée/pfbid081pvEYLc6cwrZXcnRv3nUq4jxbg2M18ahQA9adH7wRayQ1TBccToxqnR74VJpqENl/
-  Instagram: https://www.instagram.com/risplongee/https://www.instagram.com/risplongee/
+social_links:
+  Facebook: https://www.facebook.com/people/Ris-Plong%C3%A9e/pfbid081pvEYLc6cwrZXcnRv3nUq4jxbg2M18ahQA9adH7wRayQ1TBccToxqnR74VJpqENl/
+  Instagram: https://www.instagram.com/risplongee/
 
 seo_description_max_words: 200
 
 navigation_header:
-  - title: Baptême gratuit!
-    url: https://www.helloasso.com/associations/asrp-ris-plongee
-  - title: Pourquoi Ris Plongée?
-    url: /details.html
-  - title: Réseaux sociaux
-    url: /contact.html
   - title: Le club
     url: /club.html
-  - title: Nos videos
+  - title: Formations
+    url: /details.html
+  - title: Nous rejoindre
+    url: /contact.html
+  - title: Nos vidéos
     url: https://www.youtube.com/@RisPlongee
 
-fonts:
-  preconnect_urls:
-    - https://fonts.gstatic.com
-  font_urls:
-    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+# CTA principal, mis en avant dans la navigation
+call_to_action:
+  title: Baptême gratuit
+  url: https://www.helloasso.com/associations/asrp-ris-plongee
 
 collections:
   posts:
     feature_image: "/assets/img/cover.jpg"
 
-permalink: /404.html
-
-favicons:
-  48: '/assets/img/favicon/favicon.ico'
-  96: '/assets/img/favicon/favicon-96x96.png'
-  180: '/assets/img/favicon/apple-touch-icon.png'
-  192: '/assets/img/favicon/web-app-manifest-192x192.png'
-  512: '/assets/img/favicon/web-app-manifest-512x512.png'
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

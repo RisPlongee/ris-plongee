@@ -1,5 +1,6 @@
 ---
-feature_image: assets/img/cover2.jpg
+title: 50 ans de passion partagée
+description: "Le quotidien du club Ris Plongée à Ris-Orangis : entraînements hebdomadaires à la piscine René Touzin, convivialité au club-house et sorties en mer chaque année."
 ---
 
 Ris Plongée, c'est plus de 50 ans d'histoire et de passions partagées. Nous partageons cette camaraderie de tous les instants chaque mercredis pendant et après nos sessions d'entrainement.
