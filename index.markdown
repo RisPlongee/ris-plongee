@@ -52,7 +52,7 @@ description: "Ris Plongée, club associatif de plongée sous-marine à Ris-Orang
       <span class="depth">-6 m · le club</span>
       <div>
         <h2>Une famille de plongeurs depuis 1970</h2>
-        <p>Chaque mercredi, on s'entraîne, on progresse — puis on refait le monde au club-house autour d'un verre. C'est ça, Ris Plongée.</p>
+        <p>Chaque mercredi, on s'entraîne, on progresse — puis on refait le monde au club-house autour d'un verre. C'est ça, Ris Plongée. <a href="/club.html">Découvrir la vie du club</a>.</p>
       </div>
     </div>
     <div class="cards reveal" style="margin-bottom:1.5rem;">
@@ -76,7 +76,7 @@ description: "Ris Plongée, club associatif de plongée sous-marine à Ris-Orang
       <span class="depth">-20 m · la fosse</span>
       <div>
         <h2>Des formations reconnues, du premier souffle au N4</h2>
-        <p>Certifications FFESSM / FSGT valables dans le monde entier. On avance à votre rythme, la sécurité d'abord.</p>
+        <p>Certifications FFESSM / FSGT valables dans le monde entier. On avance à votre rythme, la sécurité d'abord. <a href="/details.html">Où commencer la plongée en Essonne&nbsp;?</a></p>
       </div>
     </div>
     <div class="cards reveal" style="margin-bottom:1.5rem;">
@@ -142,6 +142,8 @@ description: "Ris Plongée, club associatif de plongée sous-marine à Ris-Orang
     </div>
   </div>
 </section>
+
+{% include faq.html %}
 
 <section class="final">
   <div class="container">

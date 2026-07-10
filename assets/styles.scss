@@ -194,6 +194,17 @@ section.band { padding-block: clamp(3.5rem, 10vh, 7rem); }
 .social { display: inline-flex; align-items: center; gap: 0.55rem; text-decoration: none; color: var(--foam); background: rgba(233,244,243,0.06); border: 1px solid rgba(233,244,243,0.14); border-radius: 999px; padding: 0.6rem 1.1rem; font-weight: 600; font-size: 0.9rem; }
 .social:hover, .social:focus-visible { border-color: var(--surface); color: var(--surface); }
 
+/* FAQ */
+.faq { display: grid; gap: 0.7rem; }
+.faq-item { background: rgba(233,244,243,0.05); border: 1px solid rgba(233,244,243,0.12); border-radius: 14px; padding: 0 1.2rem; }
+.faq-item summary { list-style: none; cursor: pointer; font-family: var(--display); font-weight: 700; font-size: 1.02rem; color: var(--foam); padding: 1.1rem 0; display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
+.faq-item summary::-webkit-details-marker { display: none; }
+.faq-item summary::after { content: "+"; color: var(--coral); font-weight: 800; font-size: 1.5rem; line-height: 1; transition: transform .2s ease; }
+@media (prefers-reduced-motion: reduce) { .faq-item summary::after { transition: none; } }
+.faq-item[open] summary::after { transform: rotate(45deg); }
+.faq-a { padding: 0 0 1.1rem; }
+.faq-a p { margin: 0; color: var(--foam-dim); font-size: 0.98rem; max-width: 64ch; }
+
 /* final CTA */
 .final { text-align: center; padding-block: clamp(4rem, 12vh, 8rem); }
 .final h2 { font-family: var(--display); font-weight: 800; font-size: clamp(2rem, 6vw, 3.6rem); line-height: 1; letter-spacing: -0.02em; margin: 0 auto 1rem; max-width: 18ch; text-wrap: balance; }
