@@ -20,6 +20,10 @@ jobs:
   build:
     name: Build & vérification
     runs-on: ubuntu-latest
+    env:
+      # Le Gemfile.lock du dépôt est désynchronisé du Gemfile ; on laisse
+      # bundler le réconcilier dans le runner plutôt que d'échouer en mode gelé.
+      BUNDLE_FROZEN: "false"
     steps:
       - uses: actions/checkout@v4
 
@@ -32,6 +36,8 @@ jobs:
       - name: Build (strict)
         env:
           JEKYLL_ENV: production
+          # Évite les limites de débit de l'API GitHub lors du fetch du thème distant.
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: bundle exec jekyll build --strict_front_matter --trace
 
       - name: Install HTMLProofer
