@@ -7,4 +7,4 @@ group :jekyll_plugins do
   gem "webrick"
 end
 
-gem "faraday-retry", "~> 2.2"
+gem "faraday-retry", "~> 2.4"
