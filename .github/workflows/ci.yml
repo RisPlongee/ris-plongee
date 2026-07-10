@@ -38,6 +38,8 @@ jobs:
           JEKYLL_ENV: production
           # Évite les limites de débit de l'API GitHub lors du fetch du thème distant.
           JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # jekyll-github-metadata a besoin du nom du dépôt (fourni d'office par Pages).
+          PAGES_REPO_NWO: ${{ github.repository }}
         run: bundle exec jekyll build --strict_front_matter --trace
 
       - name: Install HTMLProofer
