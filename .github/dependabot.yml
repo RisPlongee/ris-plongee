@@ -1,0 +1,24 @@
+version: 2
+updates:
+  # Gems Jekyll / GitHub Pages
+  - package-ecosystem: bundler
+    directory: "/"
+    schedule:
+      interval: weekly
+      day: monday
+    open-pull-requests-limit: 5
+    labels:
+      - dependencies
+    groups:
+      jekyll:
+        patterns:
+          - "*"
+
+  # Actions utilisées par les workflows CI
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: weekly
+      day: monday
+    labels:
+      - dependencies

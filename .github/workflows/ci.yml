@@ -1,0 +1,45 @@
+name: CI
+
+# Garde-fou : le site est construit et vérifié avant toute mise en ligne.
+# GitHub Pages déploie automatiquement `main` — ce workflow échoue AVANT
+# qu'une erreur de build ou un lien interne cassé n'atteigne la prod.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build & vérification
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2.2'
+          bundler-cache: true
+
+      - name: Build (strict)
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --strict_front_matter --trace
+
+      - name: Install HTMLProofer
+        run: gem install html-proofer --version '~> 5.0'
+
+      - name: Vérifier les liens internes & images
+        run: |
+          htmlproofer ./_site \
+            --disable-external \
+            --checks Links,Images \
+            --ignore-missing-alt
