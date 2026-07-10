@@ -25,7 +25,7 @@ jobs:
       # bundler le réconcilier dans le runner plutôt que d'échouer en mode gelé.
       BUNDLE_FROZEN: "false"
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
