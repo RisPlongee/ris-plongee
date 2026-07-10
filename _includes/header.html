@@ -1,0 +1,14 @@
+<header class="nav">
+  <a class="brand" href="/">
+    <span class="mark">🤿</span>
+    <span>RIS PLONGÉE<small>Ris-Orangis · Essonne</small></span>
+  </a>
+  <nav class="links" aria-label="Navigation principale">
+    {% for item in site.navigation_header %}
+      <a class="hide-sm" href="{{ item.url }}">{{ item.title }}</a>
+    {% endfor %}
+    {% if site.call_to_action %}
+      <a class="btn btn-primary btn-sm" href="{{ site.call_to_action.url }}">{{ site.call_to_action.title }}</a>
+    {% endif %}
+  </nav>
+</header>

@@ -1,0 +1,94 @@
+<script>
+  // Depth gauge follows scroll, reading a plausible dive depth (0 -> 40 m)
+  (function () {
+    var fill = document.getElementById('fill');
+    var reading = document.getElementById('reading');
+    var track = document.getElementById('track');
+    if (!fill || !track) return;
+    [0, 25, 50, 75, 100].forEach(function (p) {
+      var t = document.createElement('span');
+      t.className = 'tick';
+      t.style.top = p + '%';
+      track.appendChild(t);
+    });
+    function onScroll() {
+      var h = document.documentElement.scrollHeight - window.innerHeight;
+      var p = h > 0 ? Math.min(1, window.scrollY / h) : 0;
+      fill.style.height = (p * 100) + '%';
+      reading.textContent = Math.round(p * 40) + ' m';
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  })();
+
+  // Scroll reveal
+  (function () {
+    var els = document.querySelectorAll('.reveal');
+    if (!('IntersectionObserver' in window)) { els.forEach(function (e) { e.classList.add('in'); }); return; }
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add('in'); io.unobserve(en.target); } });
+    }, { threshold: 0.12 });
+    els.forEach(function (e) { io.observe(e); });
+  })();
+
+  // Click-to-load facades for third-party embeds (perf + RGPD/CNIL: no cookies before consent)
+  (function () {
+    document.querySelectorAll('[data-embed]').forEach(function (facade) {
+      facade.addEventListener('click', function () {
+        var iframe = document.createElement('iframe');
+        var attrs = JSON.parse(facade.getAttribute('data-embed'));
+        Object.keys(attrs).forEach(function (k) { iframe.setAttribute(k, attrs[k]); });
+        iframe.setAttribute('loading', 'lazy');
+        facade.replaceWith(iframe);
+      });
+      facade.setAttribute('role', 'button');
+      facade.setAttribute('tabindex', '0');
+      facade.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); facade.click(); }
+      });
+    });
+  })();
+
+  // Ambient rising bubbles
+  (function () {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    var c = document.getElementById('bubbles');
+    if (!c) return;
+    var ctx = c.getContext('2d');
+    var w, h, bubbles;
+    function resize() {
+      w = c.width = window.innerWidth;
+      h = c.height = window.innerHeight;
+      var count = Math.round(w / 22);
+      bubbles = [];
+      for (var i = 0; i < count; i++) {
+        bubbles.push({
+          x: Math.random() * w,
+          y: Math.random() * h,
+          r: 1 + Math.random() * 3.5,
+          s: 0.25 + Math.random() * 0.8,
+          drift: (Math.random() - 0.5) * 0.4,
+          a: 0.06 + Math.random() * 0.18
+        });
+      }
+    }
+    function tick() {
+      ctx.clearRect(0, 0, w, h);
+      for (var i = 0; i < bubbles.length; i++) {
+        var b = bubbles[i];
+        b.y -= b.s;
+        b.x += b.drift;
+        if (b.y < -10) { b.y = h + 10; b.x = Math.random() * w; }
+        ctx.beginPath();
+        ctx.arc(b.x, b.y, b.r, 0, Math.PI * 2);
+        ctx.strokeStyle = 'rgba(233,244,243,' + b.a + ')';
+        ctx.lineWidth = 1;
+        ctx.stroke();
+      }
+      requestAnimationFrame(tick);
+    }
+    window.addEventListener('resize', resize);
+    resize();
+    tick();
+  })();
+</script>
