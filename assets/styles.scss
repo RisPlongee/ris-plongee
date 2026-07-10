@@ -84,6 +84,7 @@ header.nav {
 }
 .brand { display: flex; align-items: center; gap: 0.6rem; font-family: var(--display); font-weight: 800; letter-spacing: 0.02em; color: var(--foam); text-decoration: none; }
 .brand .mark { display: inline-grid; place-items: center; width: 34px; height: 34px; border-radius: 50%; border: 2px solid var(--surface); color: var(--surface); font-size: 1rem; }
+.brand img.mark { border: none; border-radius: 0; object-fit: contain; background: transparent; }
 .brand small { display: block; font-weight: 500; font-size: 0.62rem; letter-spacing: 0.22em; text-transform: uppercase; color: var(--foam-dim); }
 nav.links { display: flex; align-items: center; gap: clamp(0.6rem, 2vw, 1.6rem); }
 nav.links a { color: var(--foam); text-decoration: none; font-size: 0.86rem; font-weight: 600; letter-spacing: 0.01em; opacity: 0.86; }
