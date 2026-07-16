@@ -7,7 +7,7 @@ description: "Ris Plongée, club associatif de plongée sous-marine à Ris-Orang
 <section class="hero">
   <div class="container">
     <p class="eyebrow reveal">Club associatif · Loi 1901 · FFESSM &amp; FSGT</p>
-    <h1 class="reveal">Respirez sous l'eau <em>pour la première fois.</em></h1>
+    <h1 class="reveal">La plongée se vit <em>en club.</em></h1>
     <p class="lede reveal">À Ris-Orangis, un club de plongée qui forme, encadre et fait plonger depuis&nbsp;1970. Débutant curieux ou plongeur confirmé, l'eau vous attend le mercredi soir.</p>
     <div class="cta-row reveal">
       <a class="btn btn-primary" href="https://www.helloasso.com/associations/asrp-ris-plongee">Réserver mon baptême gratuit</a>
