@@ -10,7 +10,7 @@ description: "Ris Plongée, club associatif de plongée sous-marine à Ris-Orang
     <h1 class="reveal">La plongée se vit <em>en club.</em></h1>
     <p class="lede reveal">À Ris-Orangis, un club de plongée qui forme, encadre et fait plonger depuis&nbsp;1970. Débutant curieux ou plongeur confirmé, l'eau vous attend le mercredi soir.</p>
     <div class="cta-row reveal">
-      <a class="btn btn-primary" href="https://www.helloasso.com/associations/asrp-ris-plongee">Réserver mon baptême gratuit</a>
+      <a class="btn btn-primary" href="{{ site.call_to_action.url }}">{{ site.call_to_action.title }}</a>
       <a class="btn btn-ghost" href="#club">Découvrir le club</a>
     </div>
     <p class="cta-note reveal" style="margin-top:0.9rem;">Aucun matériel ni expérience requis — on s'occupe de tout.</p>
@@ -37,7 +37,7 @@ description: "Ris Plongée, club associatif de plongée sous-marine à Ris-Orang
       <div class="body">
         <p>On vous prête tout le matériel. Vous entrez dans l'eau accompagné d'un encadrant, et vous découvrez, à votre rythme, ce qui rend la plongée aussi calme qu'inoubliable.</p>
         <p>Il suffit de réserver un créneau — on revient vers vous très vite pour convenir d'un mercredi.</p>
-        <a class="btn btn-primary" href="https://www.helloasso.com/associations/asrp-ris-plongee">Réserver via HelloAsso</a>
+        <a class="btn btn-primary" href="{{ site.call_to_action.url }}">{{ site.call_to_action.title }}</a>
       </div>
       <a class="media" href="https://www.helloasso.com/associations/asrp-ris-plongee" aria-label="Réserver un baptême gratuit">
         <img src="/assets/img/baptism.jpg" alt="Baptême de plongée à la piscine" loading="lazy">
