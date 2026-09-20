@@ -39,7 +39,7 @@ description: "Ris Plongée, club associatif de plongée sous-marine à Ris-Orang
         <p>Il suffit de réserver un créneau — on revient vers vous très vite pour convenir d'un mercredi.</p>
         <a class="btn btn-primary" href="{{ site.call_to_action.url }}">{{ site.call_to_action.title }}</a>
       </div>
-      <a class="media" href="https://www.helloasso.com/associations/asrp-ris-plongee" aria-label="Réserver un baptême gratuit">
+      <a class="media" href="{{ site.call_to_action.url }}" aria-label="{{ site.call_to_action.title }}">
         <img src="/assets/img/baptism.jpg" alt="Baptême de plongée à la piscine" loading="lazy">
       </a>
     </div>
