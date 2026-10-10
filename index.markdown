@@ -151,7 +151,7 @@ description: "Ris Plongée, club associatif de plongée sous-marine à Ris-Orang
     <h2 class="reveal">Votre première bulle vous attend.</h2>
     <p class="reveal">Réservez un baptême gratuit, ou écrivez-nous : on adore accueillir de nouveaux plongeurs.</p>
     <div class="cta-row reveal">
-      <a class="btn btn-primary" href="https://www.helloasso.com/associations/asrp-ris-plongee">Réserver mon baptême gratuit</a>
+      <a class="btn btn-primary" href="{{ site.call_to_action.url }}">Réserver mon baptême gratuit</a>
       <a class="btn btn-ghost" href="mailto:risplongee+adhesion@gmail.com">Nous écrire</a>
     </div>
   </div>
