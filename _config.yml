@@ -74,7 +74,7 @@ navigation_header:
 # CTA principal, mis en avant dans la navigation
 call_to_action:
   title: Baptême gratuit
-  url: https://script.google.com/macros/s/AKfycbxOM6gWZ0LJuGDRggG3yo7NVfnZGqEZZK6MCHWD-Qjq04yNHydWeu6KIyTdT9zSWJbo/exec
+  url: https://script.google.com/macros/s/AKfycbwr-fHJ-dobKnv_IUcg9B4pIggkUCOwOudP7pe2t1hy0M_w4muzaTcAUzOeNf87rd9i/exec
 
 collections:
   posts:
